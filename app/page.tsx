@@ -264,10 +264,10 @@ export default function Home() {
 
                 <div className="mt-10 grid gap-8 border-t border-black/10 pt-8 sm:grid-cols-[1fr_auto] sm:items-start">
                   <p className="max-w-2xl text-sm leading-8 text-[#737874] sm:text-base">
-                    This is an initial website concept. The client&apos;s
-                    confirmed company history, certifications, experience,
-                    locations and exact service details will be added after
-                    they are provided.
+                    We provide technical support across a range of building maintenance needs,&apos;s
+                    with a focus on quality execution, attention to detail, and dependable service. Our team
+                    works to understand each client's requirements and deliver efficient solutions suited
+                    to the property and scope of work.
                   </p>
 
                   <span className="text-xs uppercase tracking-[0.16em] text-[#c9a35a]">
