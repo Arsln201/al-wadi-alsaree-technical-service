@@ -765,9 +765,10 @@ export default function Home() {
           <MotionReveal delay={0.3}>
             <div className="mt-10 flex flex-col gap-4 border-t border-white/10 pt-6 sm:flex-row sm:items-center sm:justify-between">
               <p className="max-w-xl text-xs leading-6 text-white/35 sm:text-sm">
-                Detailed project names, images and completed work
-                can be added once the client provides the portfolio
-                material.
+                We will showcase completed projects, detailed case studies,
+                and project images as portfolio materials become 
+                available.
+                
               </p>
 
               <div className="flex items-center gap-3 text-[10px] uppercase tracking-[0.18em] text-white/30">
