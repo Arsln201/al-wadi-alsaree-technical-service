@@ -840,14 +840,14 @@ export default function Home() {
                       <div className="mt-8 grid gap-5 sm:grid-cols-2">
                         <div>
                           <span className="text-[9px] uppercase tracking-[0.18em] text-black/45">
-                            Phone
+                            Landline
                           </span>
 
                           <a
-                            href="tel:+97172077082"
+                            href="tel:+97143523167"
                             className="mt-2 block w-fit text-sm font-medium transition-transform duration-300 hover:translate-x-1"
                           >
-                            +971 72 07 7082
+                            +971 43 52 3167
                           </a>
                         </div>
 
@@ -870,7 +870,8 @@ export default function Home() {
                           </span>
 
                           <p className="mt-2 text-sm font-medium">
-                            Office no 42 Hor Al Anz, Ras Al Khaimah 
+                            201, Al Safi Hor Al Anz, Dubai
+                            P.O. Box Number 10962, United Arab Emirates 
                           </p>
                         </div>
 
